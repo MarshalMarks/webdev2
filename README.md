@@ -8,6 +8,11 @@ Feel free to download the files and mess around with them to get a better unders
 
 As a reminder: HTML, CSS, and Javascript files can be opened in any plaintext editor or IDE (integrated development environment).
 
+## Workshop Slides
+
+Use this link to review the workshop slides:
+https://docs.google.com/presentation/d/1uzvzhYxNkpJdPrqSI5X1h3bZOen2iJOXdNRTMWcD2R0
+
 ## Basic Setup Instructions
 
 1. Download the zip file from the GitHub page or clone the directory to your local machine.
@@ -18,7 +23,6 @@ As a reminder: HTML, CSS, and Javascript files can be opened in any plaintext ed
 
 This workshop should act as a springboard to lay down the basics of Javascript, but there is so much more that I was not able to cover in an hour. Here are some additional resources to use if you'd like to learn more:
 
-- Workshop slides: https://docs.google.com/presentation/d/1uzvzhYxNkpJdPrqSI5X1h3bZOen2iJOXdNRTMWcD2R0
 - General Javascript resource: https://www.w3schools.com/js/
 - FreeCodeCamp crash course: https://youtu.be/jS4aFq5-91M
 - Programming practice problem rodmap: https://neetcode.io/roadmap
