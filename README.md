@@ -20,3 +20,4 @@ This workshop should act as a springboard to lay down the basics of Javascript, 
 
 - General Javascript resource: https://www.w3schools.com/js/
 - FreeCodeCamp crash course: https://youtu.be/jS4aFq5-91M
+- Programming practice problem rodmap: https://neetcode.io/roadmap
