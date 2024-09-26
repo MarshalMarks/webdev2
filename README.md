@@ -18,6 +18,7 @@ As a reminder: HTML, CSS, and Javascript files can be opened in any plaintext ed
 
 This workshop should act as a springboard to lay down the basics of Javascript, but there is so much more that I was not able to cover in an hour. Here are some additional resources to use if you'd like to learn more:
 
+- Workshop slides: https://docs.google.com/presentation/d/1uzvzhYxNkpJdPrqSI5X1h3bZOen2iJOXdNRTMWcD2R0
 - General Javascript resource: https://www.w3schools.com/js/
 - FreeCodeCamp crash course: https://youtu.be/jS4aFq5-91M
 - Programming practice problem rodmap: https://neetcode.io/roadmap
