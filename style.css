@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-size: 2rem;
+}
+
+button#main-button {
+    width: 8rem;
+    height: 8rem;
+}
+
+button#upgrade-button {
+    width: 8rem;
+    height: 4rem;
+}
