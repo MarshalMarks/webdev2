@@ -2,16 +2,11 @@
 
 ## Info
 
-This is the example webpage written for the Web Development 2 workshop given at the UTA Central Library on September 26th.
+This is the example webpage written for the Web Development 2 workshop given at the UTA Central Library on September 26th. If you would like to review the workshop slideshow, you can do so at [this link](https://docs.google.com/presentation/d/1uzvzhYxNkpJdPrqSI5X1h3bZOen2iJOXdNRTMWcD2R0).
 
 Feel free to download the files and mess around with them to get a better understanding of Javascript. Maybe try adding new mechanics to the game or new visual elements!
 
 As a reminder: HTML, CSS, and Javascript files can be opened in any plaintext editor or IDE (integrated development environment).
-
-## Workshop Slides
-
-Use this link to review the workshop slides:
-https://docs.google.com/presentation/d/1uzvzhYxNkpJdPrqSI5X1h3bZOen2iJOXdNRTMWcD2R0
 
 ## Basic Setup Instructions
 
